@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
