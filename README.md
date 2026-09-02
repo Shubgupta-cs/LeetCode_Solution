@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
