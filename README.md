@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -18,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
