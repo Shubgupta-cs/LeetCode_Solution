@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
+| [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
