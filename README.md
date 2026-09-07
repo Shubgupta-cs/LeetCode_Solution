@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
