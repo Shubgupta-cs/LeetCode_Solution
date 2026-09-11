@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 ## Math
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
