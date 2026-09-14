@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
