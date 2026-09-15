@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/majority-frequency-characters/description/">4053. Majority Frequency Characters</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/majority-frequency-characters">4053. Majority Frequency Characters</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>The <strong>frequency group</strong> for a value <code>k</code> is the set of characters that appear exactly <code>k</code> times in s.</p>
 
