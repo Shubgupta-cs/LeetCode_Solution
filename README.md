@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3692-majority-frequency-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3692-majority-frequency-characters) |
 ## String
