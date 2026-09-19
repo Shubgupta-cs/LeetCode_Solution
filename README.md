@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
