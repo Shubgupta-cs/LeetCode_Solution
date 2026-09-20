@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3692-majority-frequency-characters) |
 ## Math
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
