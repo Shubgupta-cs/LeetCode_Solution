@@ -1,13 +1,16 @@
 class Solution {
-    public boolean canConstruct(String a, String b) {
-        if(a.length()>b.length()) return false;
-        int[] alpha = new int[26];
-        for(char c:b.toCharArray()){
-            alpha[c-'a']++;
+    public boolean canConstruct(String r, String m) {
+        if(r.length()>m.length()) return false;
+        HashMap<Character,Integer> map1 = new HashMap<>();
+        HashMap<Character,Integer> map2 = new HashMap<>();
+        for(char ch : r.toCharArray()){
+            map1.put(ch,map1.getOrDefault(ch,0)+1);
         }
-        for(char c:a.toCharArray()){
-            if(alpha[c-'a'] == 0) return false;
-            alpha[c-'a']--;
+        for(char ch :m.toCharArray()){
+            map2.put(ch,map2.getOrDefault(ch,0)+1);
+        }
+        for(char ch :map1.keySet()){
+            if(map2.getOrDefault(ch,0)<map1.get(ch)) return false;
         }
         return true;
     }
