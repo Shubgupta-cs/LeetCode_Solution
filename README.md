@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1695-maximum-erasure-value) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
