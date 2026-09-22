@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3692-majority-frequency-characters) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0389-find-the-difference](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
