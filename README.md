@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
@@ -142,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
