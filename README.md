@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
