@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -228,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubgupta-cs/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
